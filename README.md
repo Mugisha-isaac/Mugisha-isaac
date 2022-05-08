@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Mugisha-isaac/Mugisha-isaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a web developer with current technologies
 - 🌱 I’m currently learning mobile development
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: instagram: mugisha05 twitter: Mugisha_08
 - 😄 Pronouns: Male
 - ⚡ Fun fact:  "Developers learn in a variety of ways"
--->
+
