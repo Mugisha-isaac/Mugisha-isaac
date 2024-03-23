@@ -1,6 +1,6 @@
 MUGISHA ISAAC
 
-Software Developer
+Fullstack | Mobile | Frontend | Backend developer
 
 I am a passionate web and mobile developer with a strong interest in exploring the latest advancements in technology. I enjoy tackling both front-end challenges in crafting user-friendly experiences and back-end complexities to build elegant and functional solutions.
 
